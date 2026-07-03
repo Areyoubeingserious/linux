@@ -3,7 +3,7 @@
  * System calls implementing the Linux Security Module API.
  *
  *  Copyright (C) 2022 Casey Schaufler <casey@schaufler-ca.com>
- *  Copyright (C) 2022 Intel Corporation
+ *  Copyright (C) 2022 Intel Corporation 
  */
 
 #include <asm/current.h>
