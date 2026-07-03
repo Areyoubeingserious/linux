@@ -1,1 +1,1 @@
-obj-$(CONFIG_DRM_HEADER_TEST)	+= drm/
+obj-$(CONFIG_DRM_HEADER_TEST)	+= drm/ 
