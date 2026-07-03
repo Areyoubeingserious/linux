@@ -1,7 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0 */
 /*
  * linux/ipc/util.h
- * Copyright (C) 1999 Christoph Rohland
+ * Copyright (C) 1999  Christoph Rohland
  *
  * ipc helper functions (c) 1999 Manfred Spraul <manfred@colorfullife.com>
  * namespaces support.      2006 OpenVZ, SWsoft Inc.
