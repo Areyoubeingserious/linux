@@ -5,7 +5,7 @@
 # Prepare global headers and check sanity before descending into sub-directories
 # ---------------------------------------------------------------------------
 
-# Generate bounds.h
+# Generate bounds.h 
 
 bounds-file := include/generated/bounds.h
 
