@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL-2.0-or-later
+// SPDX-License-Identifier:  GPL-2.0-or-later
 /* audit_fsnotify.c -- tracking inodes
  *
  * Copyright 2003-2009,2014-2015 Red Hat, Inc.
