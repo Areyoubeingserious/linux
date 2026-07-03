@@ -1,5 +1,5 @@
 			 ============================
-			 LINUX KERNEL MEMORY BARRIERS
+			 LINUX KERNEL MEMORY BARRIERS 
 			 ============================
 
 By: David Howells <dhowells@redhat.com>
